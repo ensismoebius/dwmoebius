@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=dwm-dev
+Comment=dwm window manager development
+Exec=/usr/local/bin/dwm-dev
+Type=Application
